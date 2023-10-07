@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/matt/Desktop/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/home/matt/Desktop/org.eclipse.paho.client.mqttv3.jar"/>
+	<classpathentry kind="lib" path="/home/matt/Desktop/http-20070405.jar"/>
+	<classpathentry kind="lib" path="/home/matt/Desktop/java-json.jar"/>
+	<classpathentry kind="lib" path="/home/matt/eclipse-workspace/Acquario/src/bcpkix-jdk13-167.jar"/>
+	<classpathentry kind="lib" path="/home/matt/eclipse-workspace/Acquario/src/bcprov-jdk13-167.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

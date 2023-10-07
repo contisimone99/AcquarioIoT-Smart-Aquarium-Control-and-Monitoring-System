@@ -1,0 +1,41 @@
+<html5>
+<head>
+       <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>HAT Interface</title>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <script type="text/javascript" src="js/html5shiv.js"></script>
+        <script type="text/javascript" src="js/respond.min.js"></script>
+	<script type="text/javascript" src="js/fullscreen.js"></script>
+        <![endif]-->
+        <script type="text/javascript" src="js/jquery-lang.js"></script>
+        <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="js/jquery-ui-1.10.4.min.js"></script>
+        <script type="text/javascript" src="js/fullscreen.js"></script>
+        <script src="js/utility.js" charset="utf-8" type="text/javascript"></script>
+<script>
+  var oauth = 'https://pissir-docker.edu-al.unipmn.it:8443/';
+  var uricode = 'auth/realms/$REALM/protocol/openid-connect/auth?client_id=$CLIENTID&redirect_uri=http://localhost:3000/secured&state=baf78db5-4c5b-4d56-8111-8fe63c38961a&response_mode=fragment&response_type=code&scope=openid&nonce=8fa46480-ca70-4f2f-9baf-71a6f30d6a78';
+
+  function setcode(){
+     var uri = oauth+uricode;
+     document.getElementById("all").innerHTML = '<a href="'+uri+'"> Authorize </a>';
+     console.log("calling: "+uri);
+  }
+</script>
+</head>
+
+<body>
+
+<div id="all">
+</div> 
+<script>
+setcode();
+
+</script>
+</body>
+</html5>

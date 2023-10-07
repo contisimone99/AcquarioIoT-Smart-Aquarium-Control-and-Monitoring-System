@@ -1,0 +1,355 @@
+.external {
+   padding:20px;
+   width:100%;
+   overflow-y:scroll;
+   //height:100%;
+}
+
+.myplotdiv {
+   padding:20px;
+   width:100%;
+   overflow-y:scroll;
+   border:3px solid #d4d4d4;
+   visibility:hidden;
+}
+
+
+.all {
+   padding:0.5%;
+   float:left;
+   max-width:300px;
+   width: 100%;
+   border:3px solid #d4d4d4;
+   overflow:auto;
+}
+
+div.header {
+    color:black;
+    text-align:left;
+    font-size: 1em;
+//    padding:0.5%;
+//    background-color:WhiteSmoke;
+//    border:3px solid #d4d4d4;
+    width:100%;
+   overflow:auto;
+}
+
+.headersrv {
+   display:block;
+    color:black;
+    text-align:left;
+    font-size: 1em;
+    padding:5px;
+    background-color:LightGray;
+    border:3px solid #606060;
+    width:100%;
+   overflow:auto;
+}
+
+
+div.holder{
+   width:120px;
+   float:left;
+   text-align: left;
+   font-size: 12px;
+   background-color:#CCCCCC;
+   color: black;
+   border:3px solid #808080;
+}
+
+div.ruleholder{
+   display:block;
+   float:left;
+   padding: 5px;
+   text-align: left;
+   font-size: 12px;
+   font-weight: bold;
+   border:1px solid #808080;
+   background-color:#CCCCCC;
+   color: black;
+   overflow: auto;
+}
+
+div.rulesfield{
+   display:block;
+   float:left;
+   width: 200px;
+   padding: 5px;
+   text-align: left;
+   font-size: 14px;
+   border:1px solid #808080;
+   background-color:white;
+   color: black;
+   overflow: auto;
+}
+
+div.rulefield{
+   display:block;
+   float:left;
+   padding: 5px;
+   text-align: left;
+   font-size: 14px;
+   border:2px solid #808080;
+   background-color:white;
+   color: black;
+   overflow: auto;
+}
+
+div.devholder{
+   width:100%;
+   height: auto;
+   padding: 1%;
+   text-align: center;
+   font-size: 10px;
+   border:1px solid #808080;
+   background-color:#CCCCCC;
+   color: black;
+   overflow: auto;
+}
+
+div.hhdevholder{
+   width:100%;
+   height: auto;
+   padding: 1%;
+   text-align: center;
+   font-size: 10px;
+   border:1px solid #808080;
+   background-color:#FFEFD5;
+   color: black;
+   overflow: auto;
+}
+
+div.uddevholder{
+   width:100%;
+   height: auto;
+   padding: 1%;
+   text-align: center;
+   font-size: 10px;
+   border:1px solid #808080;
+   background-color:#EEE8AA;
+   color: black;
+   overflow: auto;
+}
+
+div.hdevholder{
+ #  display:block;
+   width:50%;
+   float:left;
+   padding: 1%;
+   text-align: center;
+   font-size: 10px;
+   border:1px solid #808080;
+   background-color:#7FFFD4;
+   color: black;
+   overflow: auto;
+}
+
+div.bholder{
+   float:left;
+   width:100%;
+   height:auto;
+   padding:1%;
+   text-align: left;
+   font-size: 12px;
+   background-color:#CCCCCC;
+   color: white;
+   border:3px solid #808080;
+   overflow: auto;
+}
+
+div.hbholder{
+   float:left;
+   width:50%;
+   height:auto;
+   padding:1%;
+   text-align: left;
+   font-size: 12px;
+   background-color:#CCCCCC;
+   color: white;
+   border:3px solid #808080;
+   overflow: auto;
+}
+
+img.button{
+   float:right;
+   border-radius: 50%;
+   height:16px;
+}
+
+button.switch{
+   float:right;
+   text-align: center;
+   width:100%;
+   padding: 2%;
+   height:auto;
+   border:2px solid;
+   background-color:#808080;
+   font-size: 12px;
+   color: white;
+   moz-border-radius: 6px;
+   webkit-border-radius: 6px;
+   border-radius: 6px;
+}
+
+button.devswitch{
+   width:100%;
+   height:10px;
+   float:left;
+   border:2px solid;
+   color: white;
+   background-color: brown;
+   moz-border-radius: 6px;
+   webkit-border-radius: 6px;
+   border-radius: 6px;
+}
+
+button.edit {
+   float: right;
+   border: 2px solid;
+   background-color: red;
+   color: black;
+   padding: 5px;
+   moz-border-radius: 6px;
+   webkit-border-radius: 6px;
+   border-radius: 6px;
+}
+
+button.domainbtn {
+   float: left;
+   border: 1px solid;
+   padding: 5px;
+   width:100%;
+   background-color: Linen;
+   color: black;
+   moz-border-radius: 4px;
+   webkit-border-radius: 4px;
+   border-radius: 4px;
+}
+
+button.editpr {
+   float: left;
+   border: 2px solid;
+   height: 30px;
+   background-color: red;
+   color: black;
+   moz-border-radius: 4px;
+   webkit-border-radius: 4px;
+   border-radius: 4px;
+}
+
+
+.meter{
+   width:80%;
+   float:left;
+   height:30px;
+   border:2px solid;
+   background-color:#808080;
+   font-size: 12px;
+   color: white;
+   moz-border-radius: 6px;
+   webkit-border-radius: 6px;
+   border-radius: 6px;
+   padding:5px;
+}
+
+div.hdevholder:hover {
+   background-color:#EFEFD5;
+}
+
+.meter_inner {
+   width:100%;
+   padding:1px;
+   background-color:#808080;
+   font-size: 10px;
+   color: white;
+   border:2px solid;
+   border-radius: 6px;
+   moz-border-radius: 6px;
+   webkit-border-radius: 6px;
+}
+
+.measure{
+   float:center;
+   text-align: center;
+   width:100%;
+   color:black;
+   background-color:white;
+}
+
+div.deveditor {
+   float:right;
+   text-align: left;
+   width:100%;
+   color:black;
+   padding: 10px;
+   background-color:Gold;
+}
+
+div.barlist {
+   float:left;
+   text-align: center;
+   width:100%;
+   color:black;
+   padding: 5px;
+   font-size: 10px;
+   text-align: left;
+   background-color:white;
+   border:2px solid black;
+}
+
+div.iolink {
+   float: left;
+   color:black;
+   padding: 5px;
+   font-size: 10px;
+   text-align: left;
+   background-color:LightGray;
+   border:2px solid black;
+}
+
+div.iotext {
+   float: left;
+   color:black;
+   padding: 3px;
+   width: 130px;
+   font-size: 12px;
+   text-align: left;
+   background-color:white;
+}
+
+div.banner {
+	color: black;
+   	font-weight: bold;
+	font-size: 12px;
+}
+
+input.name {
+	color: black;
+	font-size: 12px;
+	border: 2px solid;
+}
+
+input.mediumfield {
+	width: 60px;
+	text-align: center;
+	color: black;
+	font-size: 12px;
+	border: 2px solid;
+}
+
+input.shortfield {
+	width: 40px;
+	text-align: center;
+	color: black;
+	font-size: 12px;
+	border: 2px solid;
+}
+
+input.measure {
+	width: 100%;
+	text-align: right;
+	color: black;
+   	font-weight: bold;
+	font-size: 12px;
+	border: 2px solid;
+}
