@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ../org.eclipse.paho.client.mqttv3.jar ../json-20210307.jar ../sqlite-jdbc-3.20.1.jar
+Main-Class: RestHttpServer
+

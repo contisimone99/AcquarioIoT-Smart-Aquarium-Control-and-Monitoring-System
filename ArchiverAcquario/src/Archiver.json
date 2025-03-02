@@ -1,0 +1,1502 @@
+{"listaEventi": [
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:11:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:11:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:11:40"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:11:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:12:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:12:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:12:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:12:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:12:40"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:12:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:13:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:13:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:13:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:13:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:13:40"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:13:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:14:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:14:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:14:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:14:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:14:40"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:14:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:15:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:15:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:15:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:15:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:15:40"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:15:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:16:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:16:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:16:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:16:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:16:40"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:16:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:17:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:17:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:17:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:17:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:17:40"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:17:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:18:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:18:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:18:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:18:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:18:40"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:18:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:19:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:19:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:19:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:19:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:19:40"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:19:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:20:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:20:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:20:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:20:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:20:40"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:20:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:21:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:21:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:21:20"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:21:30"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:21:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:21:50"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:22:00"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:22:10"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:22:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:22:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:22:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:22:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:23:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:23:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:23:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:23:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:23:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:23:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:24:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:24:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:24:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:24:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:24:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:24:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:25:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:25:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:25:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:25:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:25:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:25:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:26:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:26:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:26:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:26:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:26:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:26:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:27:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:27:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:27:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:27:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:27:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:27:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:28:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:28:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:28:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:28:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:28:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:28:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:29:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:29:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:29:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:29:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:29:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:29:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:30:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:30:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:30:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:30:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:30:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:30:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:31:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:31:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:31:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:31:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:31:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:31:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:32:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:32:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:32:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:32:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:32:41"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:32:51"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:33:01"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:33:11"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:33:21"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:33:31"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:33:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:33:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:34:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:34:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:34:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:34:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:34:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:34:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:35:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:35:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:35:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:35:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:35:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:35:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:36:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:36:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:36:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:36:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:36:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:36:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:37:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:37:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:37:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:37:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:37:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:37:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:38:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:38:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:38:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:38:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:38:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:38:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:39:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:39:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:39:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:39:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:39:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:39:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:40:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:40:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:40:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:40:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:40:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:40:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:41:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:41:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:41:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:41:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:41:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:41:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:42:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:42:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:42:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:42:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:42:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:42:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:43:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:43:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:43:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:43:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:43:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:43:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:44:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:44:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:44:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:44:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:44:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:44:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:45:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:45:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:45:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:45:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:45:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:45:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:46:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:46:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:46:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:46:32"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:46:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:46:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:47:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:47:15"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:47:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:47:33"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:47:42"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:47:52"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:48:02"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:48:12"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:48:22"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:48:33"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:48:43"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:48:53"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:49:03"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:49:13"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:49:23"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:49:33"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:49:43"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:49:53"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:50:03"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:50:13"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:50:23"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:50:33"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:50:43"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:50:53"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:51:03"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:51:13"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:51:23"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:51:33"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:51:43"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:51:53"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:52:03"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:52:13"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:52:23"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:52:33"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:52:43"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:52:53"
+ },
+ {
+  "attuatore": "alimentatore",
+  "azione": "accensione",
+  "timestamp": "04-07-2022 alle 09:53:37"
+ },
+ {
+  "attuatore": "alimentatore",
+  "azione": "spegnimento",
+  "timestamp": "04-07-2022 alle 09:53:43"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Spegnimento",
+  "timestamp": "04-07-2022 alle 09:53:47"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:53:57"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "accensione",
+  "timestamp": "04-07-2022 alle 09:53:58"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:53:59"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "accensione",
+  "timestamp": "04-07-2022 alle 09:54:01"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:54:02"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "accensione",
+  "timestamp": "04-07-2022 alle 09:54:07"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:54:07"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:54:17"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:54:27"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "accensione",
+  "timestamp": "04-07-2022 alle 09:54:37"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:54:37"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:54:47"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:54:57"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "accensione",
+  "timestamp": "04-07-2022 alle 09:55:07"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:55:07"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:55:15"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:55:17"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:55:27"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:55:37"
+ },
+ {
+  "attuatore": "riscaldatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:55:37"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:55:37"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:55:47"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:55:57"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:56:07"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:56:17"
+ },
+ {
+  "attuatore": "riscaldatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:56:17"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:56:17"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:56:27"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:56:37"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:56:47"
+ },
+ {
+  "attuatore": "riscaldatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:56:47"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:56:47"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:56:57"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:57:07"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:57:17"
+ },
+ {
+  "attuatore": "riscaldatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:57:17"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:57:17"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:57:27"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:57:37"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:57:47"
+ },
+ {
+  "attuatore": "riscaldatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:57:47"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:57:47"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:57:57"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:58:07"
+ },
+ {
+  "attuatore": "raffreddatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:58:18"
+ },
+ {
+  "attuatore": "riscaldatore",
+  "azione": "spento",
+  "timestamp": "04-07-2022 alle 09:58:18"
+ },
+ {
+  "attuatore": "luci",
+  "azione": "Accensione",
+  "timestamp": "04-07-2022 alle 09:58:18"
+ }
+]}

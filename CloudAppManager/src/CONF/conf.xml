@@ -1,0 +1,8 @@
+<?xml version="1.0"?>  
+<conf>  
+ 	<confdir>./CONF</confdir>
+ 	<homedir>./home</homedir>
+ 	<broker>smartcity-challenge.edu-al.unipmn.it:1883</broker>
+ 	<protocol>tcp</protocol>
+ 	<port>3000</port>
+</conf>

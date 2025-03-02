@@ -1,0 +1,9 @@
+{"apirest": [
+   {"uri":"/apirest","method":"get"},
+   {"uri":"/install","method":"post"},
+   {"uri":"/delete","method":"post"},
+   {"uri":"/start","method":"post"},
+   {"uri":"/stop","method":"post"}
+   ]
+}
+
