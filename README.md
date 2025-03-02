@@ -101,6 +101,10 @@ The system implements security through:
 - Role-based access control for MQTT topics
 - TLS support for secure communication
 
+## Authors
+- Matteo Pasotti
+- Simone Conti
+
 ## License
 
 This project is part of the Pervasive Systems course laboratory implementation.
